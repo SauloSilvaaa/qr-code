@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #D5E1EF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 320px;
+    height: 499px;
+    background-color: #FFF;
+    border-radius: 16px;
+    gap: 24px;
+}
+
+.container img{
+    width: 288px;
+    height: 288px;
+    border-radius: 8px;
+}
+
+.text{
+    width: 288px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 0 16px 20px 16px;
+    gap: 16px;
+}
+
+.text .skills {
+    font-size: 22px;
+    font-weight: 700;
+    color: #1F314F;
+    line-height: 120%;
+}
+
+.text .scan {
+    font-size: 15px;
+    font-weight: normal;
+    color: #68778D;
+    letter-spacing: 0.2;
+    line-height: 140%;
+}
+
+.attribution {
+    font-size: 11px; text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
