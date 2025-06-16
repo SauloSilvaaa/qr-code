@@ -11,9 +11,7 @@ Um componente do tipo card que exibe QR CODE para a plataforma Frontenmentor �
 </div>
 
 ### Tecnologias utilizadas
--HTML
--CSS
--JS
+HTML-CSS-JS
 
 ### Como utilizar
 
@@ -35,4 +33,4 @@ Alt + L + O
 
 ### Dificuldades
 
-Tive dificuldade em centralizar o conteúdo no meio, por que eu estava atribuindo a height= 100%; depois que troquei por height= 100vh; ele ficou centralizado
+Tive dificuldade em centralizar o conteúdo no meio, por que eu estava atribuindo a height= 100%; depois que troquei por height= 100vh; ele ficou
